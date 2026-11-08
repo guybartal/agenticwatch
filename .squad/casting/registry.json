@@ -1,3 +1,39 @@
 {
-  "agents": {}
+  "agents": {
+    "lead": {
+      "persistent_name": "Picard",
+      "universe": "Star Trek: The Next Generation",
+      "created_at": "2026-11-08T17:09:29.952+02:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "integration": {
+      "persistent_name": "Data",
+      "universe": "Star Trek: The Next Generation",
+      "created_at": "2026-11-08T17:09:29.952+02:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "apple-platforms": {
+      "persistent_name": "Geordi",
+      "universe": "Star Trek: The Next Generation",
+      "created_at": "2026-11-08T17:09:29.952+02:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "ux": {
+      "persistent_name": "Troi",
+      "universe": "Star Trek: The Next Generation",
+      "created_at": "2026-11-08T17:09:29.952+02:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "quality": {
+      "persistent_name": "Worf",
+      "universe": "Star Trek: The Next Generation",
+      "created_at": "2026-11-08T17:09:29.952+02:00",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
 }
