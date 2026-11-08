@@ -1,4 +1,22 @@
 {
-  "universe_usage_history": [],
-  "assignment_cast_snapshots": {}
+  "universe_usage_history": [
+    {
+      "universe": "Star Trek: The Next Generation",
+      "assignment_id": "agenticwatch-2026-11-08",
+      "used_at": "2026-11-08T17:09:29.952+02:00"
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "agenticwatch-2026-11-08": {
+      "universe": "Star Trek: The Next Generation",
+      "agents": {
+        "lead": "Picard",
+        "integration": "Data",
+        "apple-platforms": "Geordi",
+        "ux": "Troi",
+        "quality": "Worf"
+      },
+      "created_at": "2026-11-08T17:09:29.952+02:00"
+    }
+  }
 }

@@ -9,7 +9,7 @@
 | **Trigger** | auto |
 | **When** | before |
 | **Condition** | multi-agent task involving 2+ agents modifying shared systems |
-| **Facilitator** | lead |
+| **Facilitator** | Picard |
 | **Participants** | all-relevant |
 | **Time budget** | focused |
 | **Enabled** | ✅ yes |
@@ -29,7 +29,7 @@
 | **Trigger** | auto |
 | **When** | after |
 | **Condition** | build failure, test failure, or reviewer rejection |
-| **Facilitator** | lead |
+| **Facilitator** | Picard |
 | **Participants** | all-involved |
 | **Time budget** | focused |
 | **Enabled** | ✅ yes |
@@ -50,7 +50,7 @@
 | **Trigger** | auto |
 | **When** | weekly |
 | **Condition** | No *retrospective* log in .squad/log/ within the last 7 days |
-| **Facilitator** | lead |
+| **Facilitator** | Picard |
 | **Participants** | all |
 | **Time budget** | focused |
 | **Enabled** | yes |

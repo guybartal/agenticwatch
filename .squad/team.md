@@ -12,6 +12,15 @@
 
 | Name | Role | Charter | Status |
 |------|------|---------|--------|
+| Picard | Lead & Architect | .squad/agents/picard/charter.md | 🏗️ Lead |
+| Data | Copilot Integration Engineer | .squad/agents/data/charter.md | 🔧 Integration |
+| Geordi | Apple Watch & iPhone Engineer | .squad/agents/geordi/charter.md | ⚙️ Apple platforms |
+| Troi | UX & Accessibility Designer | .squad/agents/troi/charter.md | ⚛️ Design |
+| Worf | Quality & Security Engineer | .squad/agents/worf/charter.md | 🧪 Quality |
+| Scribe | Session Logger & Memory Manager | .squad/agents/scribe/charter.md | 📋 Silent |
+| Ralph | Work Monitor | .squad/agents/ralph/charter.md | 🔄 Monitor |
+| Rai | RAI Reviewer | .squad/agents/Rai/charter.md | 🛡️ RAI |
+| Fact Checker | Verification & Devil's Advocate | .squad/agents/fact-checker/charter.md | 🔍 Verifier |
 
 
 ## Coding Agent
@@ -51,3 +60,10 @@
 
 - **Project:** agenticwatch
 - **Created:** 2026-11-08
+- **PRD:** [AgenticWatch](../docs/prd/agenticwatch.md) (PRD-AGENTICWATCH-001)
+- **Theme:** Star Trek: The Next Generation. Names are persistent identifiers, not role-play.
+- **Product:** Apple Watch-first monitoring of personal Copilot app sessions on macOS, with an iPhone companion.
+- **MVP:** Session status, attention notifications, freshness indicators, and complications; no watch-side session actions.
+- **Status language:** Working, Needs you, Finished responding, Unknown/Offline. Idle is not proof of task success.
+- **Privacy:** Share only session name, project name, state, state duration, and attention type; never prompts, responses, code, or file contents.
+- **Open dependency:** Validate a supported status integration (ASM-001) before implementation. Technical architecture, stack, supported OS versions, and PRD questions remain undecided.
